@@ -11,7 +11,8 @@
     "icons": [
       {
         "src": "/public/favicon.jpeg",
-        "sizes": "512x512"
+        "sizes": "512x512",
+        "type": "image/jpeg"
       }
     ],
     "prefer_related_applications": true

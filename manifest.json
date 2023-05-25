@@ -14,11 +14,6 @@
         "sizes": "512x512"
       }
     ],
-    "prefer_related_applications": true,
-    "related_applications": [
-      {
-        "platform": "web"
-      }
-    ]
+    "prefer_related_applications": true
   }
   

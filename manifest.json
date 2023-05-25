@@ -1,17 +1,24 @@
 {
     "lang": "en-us",
-    "name": "Temperature converter app",
-    "short_name": "Temperature converter",
-    "description": "A basic temperature converter application that can convert to and from Celsius, Kelvin, and Fahrenheit",
+    "name": "Global Atlas",
+    "short_name": "Global Atlas",
+    "description": "Explore the World: Essential Country Information",
     "start_url": "/",
     "background_color": "#2f3d58",
     "theme_color": "#2f3d58",
     "orientation": "any",
     "display": "standalone",
     "icons": [
-        {
-            "src": "/public/favicon.jpeg",
-            "sizes": "512x512"
-        }
+      {
+        "src": "/public/favicon.jpeg",
+        "sizes": "512x512"
+      }
+    ],
+    "prefer_related_applications": true,
+    "related_applications": [
+      {
+        "platform": "web"
+      }
     ]
-}
+  }
+  
